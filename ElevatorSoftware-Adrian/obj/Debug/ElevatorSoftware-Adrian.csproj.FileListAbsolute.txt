@@ -1,0 +1,10 @@
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\bin\Debug\ElevatorSoftware-Adrian.exe.config
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\bin\Debug\ElevatorSoftware-Adrian.exe
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\bin\Debug\ElevatorSoftware-Adrian.pdb
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware-Adrian.csprojAssemblyReference.cache
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware_Adrian.Form1.resources
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware_Adrian.Properties.Resources.resources
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware-Adrian.csproj.GenerateResource.cache
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware-Adrian.csproj.CoreCompileInputs.cache
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware-Adrian.exe
+C:\Users\olaru\OneDrive\Desktop\VisualStudioProjects\ElevatorSoftware-Adrian\ElevatorSoftware-Adrian\obj\Debug\ElevatorSoftware-Adrian.pdb
